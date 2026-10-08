@@ -1,0 +1,6 @@
+{
+  "stock": {"money": 1000, "food": 200, "manpower": 50, "metal": 100, "oil": 0},
+  "income_per_hour": {"money": 200, "food": 40, "manpower": 5, "metal": 50, "oil": 25},
+  "sites": 2,
+  "orders": {"infantry": 6, "tank": 2}
+}

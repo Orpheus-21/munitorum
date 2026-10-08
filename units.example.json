@@ -1,0 +1,4 @@
+{
+  "infantry": {"cost": {"money": 100, "food": 50, "manpower": 10}, "build_seconds": 3600},
+  "tank":     {"cost": {"money": 400, "metal": 200, "oil": 100}, "build_seconds": 14400}
+}
