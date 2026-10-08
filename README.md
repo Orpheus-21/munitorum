@@ -1,4 +1,4 @@
-# Call of War production planner
+# Munitorum
 
 A command-line tool that shows when a build order is ready in Call of War: World War 2.
 
@@ -18,13 +18,13 @@ The tool does not connect to the game. It does not read game data and it does no
 1. Clone the repository:
 
 ```
-git clone https://github.com/Orpheus-21/call-of-war-planner.git
+git clone https://github.com/Orpheus-21/munitorum.git
 ```
 
 2. Go to the folder:
 
 ```
-cd call-of-war-planner
+cd munitorum
 ```
 
 ## Usage
